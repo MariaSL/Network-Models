@@ -9,11 +9,11 @@ Example implementation of the Erdos-Renyi and Watts-Strogatz graph network model
 
 ## Stack ##
 * Language : Python 2.7
-* Libraries: NetworkX, Numpy, Matplotlib, Math
+* Libraries : NetworkX, Numpy, Matplotlib, Math
     
 ## How to run ##
 * Erdos-Renyi model : run `src/ERModel.py`
-* Watts-Strogatz model :run `src/WSModel.py`
+* Watts-Strogatz model : run `src/WSModel.py`
 
 ## Notes ##
 * You can modify the parameters for each model in their respective source files (e.g. `a = watts_strogatz_model(500, 4, 0.001)` in `src/WSModel.py`) to see how the results vary.
